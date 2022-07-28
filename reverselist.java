@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
 public class reverselist {
     public ListNode head;
     class ListNode {
